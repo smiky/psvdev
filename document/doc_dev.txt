@@ -5,3 +5,4 @@
   * DATA.TN and MENU.PBP should be together generate by OSLib, MENU.PUP project name seems TNMENU, version is 1.0, DATA.TN is PIC resource, invoke by MENU.PBP.
   * h folder generate H.BIN file.
   * package_maker.exe genterate FLASH0.TN(depend on tn/tn.bin and systemctrl/systemctrl.prx).
+  * tools.rar is build project need.
